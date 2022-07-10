@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Mining_enchanced_Mod",
+    "name": "Mining_enchanced",
+    "authors": [ "♣Góra♣" ],
+    "description": "A mod that adds a veins of underground veis of minerals and some metalurgy recipes.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+
+  {
+    "type": "terrain",
+    "id": "t_rock",
+    "name": "solid rock",
+    "description": "It's solid rock, could be full of all kinds of interesting things.  Best grab your pickaxe or equivalent digging implement, and strike the earth!",
+    "symbol": "#",
+    "color": "white",
+    "move_cost": 0,
+    "coverage": 100,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "NO_SCENT", "MINEABLE", "BLOCK_WIND" ],
+    "roof": "t_rock_floor_no_roof",
+    "bash": {
+      "str_min": 50,
+      "str_max": 150,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "ter_set_bashed_from_above": "t_rock_floor_no_roof",
+      "items": [
+        { "item": "rock", "count": [ 9, 18 ] },
+        { "item": "coal_lump", "charges": [ 250, 500 ], "prob": 10 },
+        { "item": "material_limestone", "charges": [ 10, 25 ], "prob": 80 },
+        { "item": "material_rocksalt", "count": [ 0, 1 ], "prob": 20 },
+        { "item": "material_rhodonite", "count": [ 1, 1 ], "prob": 3 },
+        { "item": "material_zincite", "count": [ 1, 5 ], "prob": 5 },
+		{ "item": "chunk_cassiterite", "count": [ 1, 5 ], "prob": 3 },
+		{ "item": "chunk_malachite", "count": [ 1, 5 ], "prob": 3 },
+		{ "item": "material_niter", "count": [ 1, 5 ], "prob": 5 },
+		{ "item": "chunk_sulfur", "count": [ 1, 5 ], "prob": 5 }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_niter",
+    "name": "niter",
+    "description": "A vein of saltpeter.",
+    "symbol": "#",
+    "color": "light_gray",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 3, 7 ] }, { "item": "material_niter", "count": [ 2, 9 ]} ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_brimstone",
+    "name": "brimstone",
+    "description": "A vein of sulfur.",
+    "symbol": "#",
+    "color": "yellow",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 1, 3 ] }, { "item": "chunk_sulfur", "count": [ 3, 9 ]} ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_malachite",
+    "name": "malachite",
+    "description": "A vein of malachite.",
+    "symbol": "#",
+    "color": "green",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 1, 5 ] }, { "item": "chunk_malachite", "count": [ 2, 9 ]} ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_cassiterite",
+    "name": "cassiterite",
+    "description": "A deposit of cassiterite.",
+    "symbol": "#",
+    "color": "brown",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 3, 4 ] }, { "item": "chunk_cassiterite", "count": [ 3, 8 ]} ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_galena",
+    "name": "galena",
+    "description": "A deposit of galena.",
+    "symbol": "#",
+    "color": "light_gray",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 1, 4 ] }, { "item": "chunk_galena", "count": [ 3, 8 ]} ]
+    }
+  },
+    {
+    "type": "terrain",
+    "id": "t_rock_bauxite",
+    "name": "bauxite",
+    "description": "A vein of bauxite.",
+    "symbol": "#",
+    "color": "light_gray",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 0, 1 ] }, { "item": "chunk_bauxite", "count": [ 6, 13 ]} ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_rock_hematite",
+    "name": "hematite",
+    "description": "A vein of hematite.",
+    "symbol": "#",
+    "color": "brown",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 1, 4 ] }, { "item": "chunk_hematite", "count": [ 2, 8 ]} ]
+    }
+  },
+    {
+    "type": "terrain",
+    "id": "t_rock_coal",
+    "name": "coal",
+    "description": "A vein of soft coal.",
+    "symbol": "#",
+    "color": "dark_gray",
+    "move_cost": 0,
+    "flags": [ "NOITEM", "SUPPORTS_ROOF", "WALL", "MINEABLE" ],
+    "roof": "t_rock_floor",
+    "bash": {
+      "str_min": 100,
+      "str_max": 400,
+      "sound": "crash!",
+      "sound_fail": "whump!",
+      "ter_set": "t_rock_floor",
+      "items": [ { "item": "rock", "count": [ 0, 2 ] }, { "item": "coal_lump", "charges": [ 150, 600 ] },{ "item": "chunk_sulfur", "count": [ 1, 2 ], "prob": 27 } ]
+    }
+  }
+]

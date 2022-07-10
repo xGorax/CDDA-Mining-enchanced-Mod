@@ -1,0 +1,276 @@
+[
+  {
+    "type": "overmap_special",
+    "id": "vein_long_h",
+    "overmaps": [
+	{ "point": [ 0, 0, -4 ], "overmap": "vein_long_1h" }, 
+	{ "point": [ 1, 0, -4 ], "overmap": "vein_long_2h" },
+	{ "point": [ 2, 0, -4 ], "overmap": "vein_long_3h" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 15, 100 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_h",
+    "overmaps": [
+	{ "point": [ 0, 0, -4 ], "overmap": "vein_tall_1h" }, 
+	{ "point": [ 0, 1, -4 ], "overmap": "vein_tall_2h" },
+	{ "point": [ 0, 2, -4 ], "overmap": "vein_tall_3h" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_c",
+    "overmaps": [
+	{ "point": [ 0, 0, -1 ], "overmap": "vein_long_1c" }, 
+	{ "point": [ 1, 0, -1 ], "overmap": "vein_long_2c" },
+	{ "point": [ 2, 0, -1 ], "overmap": "vein_long_3c" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_c",
+    "overmaps": [
+	{ "point": [ 0, 0, -1 ], "overmap": "vein_tall_1c" }, 
+	{ "point": [ 0, 1, -1 ], "overmap": "vein_tall_2c" },
+	{ "point": [ 0, 2, -1 ], "overmap": "vein_tall_3c" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_n",
+    "overmaps": [
+	{ "point": [ 0, 0, -1 ], "overmap": "vein_long_1n" }, 
+	{ "point": [ 1, 0, -1 ], "overmap": "vein_long_2n" },
+	{ "point": [ 2, 0, -1 ], "overmap": "vein_long_3n" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_n",
+    "overmaps": [
+	{ "point": [ 0, 0, -1 ], "overmap": "vein_tall_1n" }, 
+	{ "point": [ 0, 1, -1 ], "overmap": "vein_tall_2n" },
+	{ "point": [ 0, 2, -1 ], "overmap": "vein_tall_3n" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_b",
+    "overmaps": [
+	{ "point": [ 0, 0, -2 ], "overmap": "vein_long_1b" }, 
+	{ "point": [ 1, 0, -2 ], "overmap": "vein_long_2b" },
+	{ "point": [ 2, 0, -2 ], "overmap": "vein_long_3b" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_b",
+    "overmaps": [
+	{ "point": [ 0, 0, -2 ], "overmap": "vein_tall_1b" }, 
+	{ "point": [ 0, 1, -2 ], "overmap": "vein_tall_2b" },
+	{ "point": [ 0, 2, -2 ], "overmap": "vein_tall_3b" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_l",
+    "overmaps": [
+	{ "point": [ 0, 0, -2 ], "overmap": "vein_long_1l" }, 
+	{ "point": [ 1, 0, -2 ], "overmap": "vein_long_2l" },
+	{ "point": [ 2, 0, -2 ], "overmap": "vein_long_3l" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_l",
+    "overmaps": [
+	{ "point": [ 0, 0, -2 ], "overmap": "vein_tall_1l" }, 
+	{ "point": [ 0, 1, -2 ], "overmap": "vein_tall_2l" },
+	{ "point": [ 0, 2, -2 ], "overmap": "vein_tall_3l" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_m",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_long_1m" }, 
+	{ "point": [ 1, 0, -3 ], "overmap": "vein_long_2m" },
+	{ "point": [ 2, 0, -3 ], "overmap": "vein_long_3m" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_m",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_tall_1m" }, 
+	{ "point": [ 0, 1, -3 ], "overmap": "vein_tall_2m" },
+	{ "point": [ 0, 2, -3 ], "overmap": "vein_tall_3m" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_long_cs",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_long_1cs" }, 
+	{ "point": [ 1, 0, -3 ], "overmap": "vein_long_2cs" },
+	{ "point": [ 2, 0, -3 ], "overmap": "vein_long_3cs" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "vein_tall_cs",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_tall_1cs" }, 
+	{ "point": [ 0, 1, -3 ], "overmap": "vein_tall_2cs" },
+	{ "point": [ 0, 2, -3 ], "overmap": "vein_tall_3cs" }
+	],
+    "locations": [ "land", "water" ],
+    "city_distance": [ 5, -1 ],
+    "city_sizes": [ 0, 20 ],
+    "occurrences": [ 0, 50 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_h",
+    "overmaps": [
+	{ "point": [ 0, 0, -4 ], "overmap": "vein_small_4h" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 5, 100 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_m",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_small_4m" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 0, 10 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_cs",
+    "overmaps": [
+	{ "point": [ 0, 0, -3 ], "overmap": "vein_small_4cs" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 5, 1000 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_n",
+    "overmaps": [
+	{ "point": [ 0, 0, -1 ], "overmap": "vein_small_4n" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 5, 1000 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_b",
+    "overmaps": [
+	{ "point": [ 0, 0, -2 ], "overmap": "vein_small_4b" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 5, 1000 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  },
+    {
+    "type": "overmap_special",
+    "id": "vein_small_bx",
+    "overmaps": [
+	{ "point": [ 0, 0, -5 ], "overmap": "vein_small_4bx" }
+	],
+    "locations": [ "land", "water" ],
+    "occurrences": [ 5, 1000 ],
+    "rotate": false,
+    "flags": [ "CLASSIC", "WILDERNESS" ]
+  }
+]
