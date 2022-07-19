@@ -1,0 +1,18 @@
+[
+  {
+    "id": "m_drill",
+    "type": "GENERIC",
+    "category": "veh_parts",
+    "name": { "str": "mining drill" },
+    "description": "A mining drill. This toy can whitstand a lot of punishment but still can be damaged and will require repairs",
+    "weight": "72200 g",
+    "volume": "8 L",
+    "price": 100,
+    "price_postapoc": 10,
+    "to_hit": -1,
+    "bashing": 36,
+    "material": [ "steel" ],
+    "symbol": "^",
+    "color": "light_gray"
+  }
+]

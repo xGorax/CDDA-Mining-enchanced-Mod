@@ -1,0 +1,434 @@
+[
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3c",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1l",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2l",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3l",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1l",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2l",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3l",
+    "name": " vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3m",
+    "name": " vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_1cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_2cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_long_3cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_1cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_2cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+ {
+    "type": "overmap_terrain",
+    "id": "vein_tall_3cs",
+    "name": " vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+ },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4h",
+    "name": "vein",
+    "sym": "V",
+    "color": "light_gray",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4m",
+    "name": "vein",
+    "sym": "V",
+    "color": "green",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4cs",
+    "name": "vein",
+    "sym": "V",
+    "color": "brown",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4n",
+    "name": "vein",
+    "sym": "V",
+    "color": "white",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4b",
+    "name": "vein",
+    "sym": "V",
+    "color": "yellow",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vein_small_4bx",
+    "name": "vein",
+    "sym": "V",
+    "color": "red",
+    "see_cost": 5,
+    "flags": [ "NO_ROTATE" ]
+  }
+]
